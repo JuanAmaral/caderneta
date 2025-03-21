@@ -1,4 +1,4 @@
-# Resumo da Privacidade e Isenção de Responsabilidade – Caderneta da Criança
+# Resumo da Privacidade e Isenção de Responsabilidade – Caderneta
 
 Leia a **[Política de Privacidade completa](#)** para obter informações detalhadas.
 
@@ -45,7 +45,7 @@ Leia a **[Política de Privacidade completa](#)** para obter informações detal
   O aplicativo **Caderneta da Criança** não é um aplicativo oficial do governo, nem é afiliado, endossado ou gerido por qualquer entidade governamental.
 
 - **Fonte das Informações Governamentais:**  
-  As informações disponibilizadas são provenientes de fontes públicas, como os sistemas da Prefeitura e outros serviços integrados, e têm caráter **meramente informativo**.
+  As informações disponibilizadas são provenientes de fontes públicas, como os sistemas da Prefeitura e outros serviços integrados, e têm caráter **meramente informativo**. As informações de saúde e educação são baseadas nos dados públicos disponíveis no portal da Prefeitura Municipal de Recife. **https://conecta.recife.pe.gov.br**.
 
 - **Esclarecimento:**  
   Este aplicativo **não substitui** os canais oficiais do governo. Para obter informações oficiais, consulte os sites ou canais de atendimento das respectivas instituições governamentais.
